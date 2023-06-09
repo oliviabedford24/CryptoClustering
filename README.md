@@ -4,6 +4,6 @@ In the Module 19 challenge of Rice University's Data Analytics bootcamp, we used
 
 The primary code is contained in the "Crypto_Clustering.ipynb" file, and my comments and conclusions are contained therein, as well. The data set being analyzed is contained in the Resources folder. 
 
-The code in this repository is my original work. I obtained assistance and input from Rice University's team of instructors and tutors, but the work itself is mine alone.
+The code in this repository is my original work. 
 
-Another day, another slay. :)
+Thank you!
